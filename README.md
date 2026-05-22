@@ -17,12 +17,12 @@ building a dashboard that makes stakeholders go "oh, *that's* what's happening"
 
 ## 🛠️ Tools I work with
 
-| Area              | Tools                                      |
-|-------------------|--------------------------------------------|
-| Data wrangling    | Python (pandas, NumPy), Excel              |
-| Querying          | SQL (PostgreSQL, MySQL)                    |
-| Visualisation     | Tableau, Power BI, Matplotlib, Seaborn     |
-| Workflow          | Git, Jupyter Notebooks, VS Code            |
+| Area              | Tools                                                  |
+|-------------------|--------------------------------------------------------|
+| Data wrangling    | Python (pandas, NumPy), Excel (Advanced PowerQuery)    |
+| Querying          | SQL (PostgreSQL, MySQL)                                |
+| Visualisation     | Tableau, Power BI (Advanced DAX)                       |
+| Workflow          | Git, Jupyter Notebooks, VS Code                        |
 
 ---
 
