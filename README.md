@@ -30,7 +30,8 @@ building a dashboard that makes stakeholders go "oh, *that's* what's happening"
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| 🛒 [Retail Sales Analysis](link) | EDA on 2 years of sales data; found 3 underperforming product lines | Python, pandas |
+| [🚗 EV Market Analysis](https://github.com/Patryk1kas/ev-market-analysis) | Analysed global EV sales data to answer key CEO business questions |
+|  — market share, regional dominance and YoY growth trends | Python, pandas, Seaborn |
 | 🏥 [Healthcare Wait Times Dashboard](link) | Interactive dashboard tracking regional NHS wait time trends | Tableau, Excel |
 | 🎵 [Spotify Listening Trends](link) | SQL-based deep dive into 18 months of personal listening data | SQL, Power BI |
 | 🏠 [London Housing Market](link) | Cleaned and analysed 50k+ property listings to surface pricing patterns | Python, pandas, Seaborn |
