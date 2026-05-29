@@ -58,9 +58,9 @@ I'm always happy to chat about projects, career pivots, or anything data-related
 
 ## 📫 Get in touch
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 🌐 [Portfolio / Blog](your-site-url) *(optional)*
+- 💼 LinkedIn - www.linkedin.com/in/patryk-kasprzyk-ab655b21b
+- 📧 [your.email@example.com](mailto:p.g.kasprzyk@gmail.com)
+  
 
 ---
 
