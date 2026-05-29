@@ -1,28 +1,23 @@
-# Hi there, I'm Patryk 👋
+# Hi, I'm Patryk 👋
 
-I'm a data analyst with a background in hospitality managment who discovered a love
-for turning messy data into clear, actionable insights. I made the leap into
-data a while back and haven't looked back since!
+Data analyst with a background in hospitality management. I spent years running kitchens before realising what I actually loved was the numbers behind the operations — food cost %, labour scheduling, margin analysis. That led me here.
 
 ---
 
-## 🔍 What I'm about
+## What I do
 
-I believe the best analysis tells a story — not just shows numbers. Whether
-it's cleaning a gnarly dataset in Python, writing a tricky SQL query, or
-building a dashboard that makes stakeholders go "oh, *that's* what's happening"
-— I'm in my element.
+I turn messy data into clear decisions. The work I enjoy most sits at the intersection of solid analysis and clear communication — building something a stakeholder looks at and immediately understands.
 
 ---
 
-## 🛠️ Tools I work with
+## Tools
 
-| Area              | Tools                                                  |
-|-------------------|--------------------------------------------------------|
-| Data wrangling    | Python (pandas, NumPy), Excel (Advanced PowerQuery)    |
-| Querying          | SQL (PostgreSQL, MySQL)                                |
-| Visualisation     | Tableau, Power BI (Advanced DAX)                       |
-| Workflow          | Git, Jupyter Notebooks, VS Code                        |
+| Area | Tools |
+|---|---|
+| Data wrangling | Python (pandas, NumPy), Excel (Power Query) |
+| Querying | SQL (PostgreSQL, MySQL) |
+| Visualisation | Power BI (Advanced DAX), Tableau |
+| Workflow | Git, Jupyter Notebooks, VS Code |
 
 ---
 
@@ -37,27 +32,20 @@ building a dashboard that makes stakeholders go "oh, *that's* what's happening"
 
 ---
 
-## 🌱 Currently learning
-
-- dbt (data build tool) for cleaner data modelling
-- Streamlit for turning analyses into shareable web apps
-- Window functions in SQL (they're brilliant once they click!)
-
----
-
-## 💬 A bit more about me
-
-Before data, I worked in [previous field] — which actually gave me a solid
-grounding in [transferable skill, e.g. "understanding what business teams
-actually need" / "communicating complex ideas clearly"]. I think that context
-makes me a better analyst, not just a better coder.
-
-I'm always happy to chat about projects, career pivots, or anything data-related.
+## Currently learning
+- **dbt** — cleaner data modelling
+- **Streamlit** — turning analyses into shareable web apps  
+- **SQL window functions** — genuinely brilliant once they click
 
 ---
 
-## 📫 Get in touch
+## Get in touch
+- LinkedIn: [patryk-kasprzyk](https://www.linkedin.com/in/patryk-kasprzyk-ab655b21b)
+- Email: p.g.kasprzyk@gmail.com
 
+---
+
+*"Without data, you're just another person with an opinion." — W. Edwards Deming*
 - 💼 [LinkedIn]www.linkedin.com/in/patryk-kasprzyk-ab655b21b
 - 📧 [p.g.kasprzyk@gmail.com](mailto:p.g.kasprzyk@gmail.com)
   
