@@ -32,7 +32,7 @@ building a dashboard that makes stakeholders go "oh, *that's* what's happening"
 |---------|-------------|-------|
 | [🚗 EV Market Analysis](https://github.com/Patryk1kas/ev-market-analysis) | Analysed global EV sales data to answer key CEO business questions — market share, regional dominance and YoY growth trends | Python, pandas, Seaborn |
 | [🏦 AML Transaction Monitoring](https://github.com/Patryk1kas/aml-transaction-monitoring) | Analysed 5 million financial transactions to detect money laundering patterns — identified ACH as the highest risk payment format contrary to popular assumption | Python, pandas, Seaborn |
-| 🎵 [Spotify Listening Trends](link) | SQL-based deep dive into 18 months of personal listening data | SQL, Power BI |
+| [📊 UK Economic Health Dashboard](https://github.com/Patryk1kas/uk-economic-dashboard) | Built a consulting-style economic dashboard using Excel Power Query — combining GDP, inflation and unemployment data from ONS into one clean interactive dashboard | Excel, Power Query |
 | 🏠 [London Housing Market](link) | Cleaned and analysed 50k+ property listings to surface pricing patterns | Python, pandas, Seaborn |
 
 ---
