@@ -58,7 +58,7 @@ I'm always happy to chat about projects, career pivots, or anything data-related
 
 ## 📫 Get in touch
 
-- 💼 [LinkedIn](www.linkedin.com/in/patryk-kasprzyk-ab655b21b)
+- 💼 [LinkedIn]www.linkedin.com/in/patryk-kasprzyk-ab655b21b
 - 📧 [p.g.kasprzyk@gmail.com](mailto:p.g.kasprzyk@gmail.com)
   
 
