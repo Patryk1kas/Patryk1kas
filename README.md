@@ -46,10 +46,4 @@ I turn messy data into clear decisions. The work I enjoy most sits at the inters
 ---
 
 *"Without data, you're just another person with an opinion." — W. Edwards Deming*
-- 💼 [LinkedIn]www.linkedin.com/in/patryk-kasprzyk-ab655b21b
-- 📧 [p.g.kasprzyk@gmail.com](mailto:p.g.kasprzyk@gmail.com)
-  
 
----
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
